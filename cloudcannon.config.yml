@@ -1,0 +1,12 @@
+collections_config:
+  pages:
+    path: ''
+    name: Pages
+    icon: wysiwyg
+paths:
+  static: ''
+  uploads: uploads
+timezone: Europe/Kiev
+markdown:
+  engine: commonmark
+  options: {}
