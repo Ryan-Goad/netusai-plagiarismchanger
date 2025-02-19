@@ -9,10 +9,11 @@ collections_config:
     name: Pages
     icon: wysiwyg
     disable_url: false
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
-timezone: Europe/Kiev
+timezone: America/Mexico_City
 markdown:
   engine: commonmark
   options:
